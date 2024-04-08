@@ -1,6 +1,6 @@
 #Francis Diaz
 #04/07/2024
-#P4LAB1
+#P4LAB1A
 #Using turtle graphics, create a square and triangle using a for or while loop
 
 #Import turtle graphics
